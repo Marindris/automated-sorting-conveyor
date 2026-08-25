@@ -1,0 +1,36 @@
+# HMI
+
+This folder contains the Human-Machine Interface (HMI) development for the Mini Automated Sorting Conveyor.
+
+## Current Status
+
+Planned
+
+HMI development will begin after the basic PLC control sequence has been implemented.
+
+## Planned Functions
+
+The HMI will eventually provide:
+
+- System Start and Stop controls
+- Automatic and Manual mode selection
+- Conveyor status
+- Sensor status
+- Actuator status
+- Production counter
+- Alarm display
+- Fault acknowledgement and reset
+- Manual actuator controls
+- System operating status
+
+## Planned Screens
+
+Potential HMI screens include:
+
+1. Main Overview
+2. Manual Control
+3. Alarm and Fault History
+4. System Status
+5. Production Information
+
+Screenshots and HMI project files will be added during development.
