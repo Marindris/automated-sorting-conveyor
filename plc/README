@@ -1,0 +1,40 @@
+# PLC Control
+
+This folder contains the PLC control logic for the Mini Automated Sorting Conveyor.
+
+## Current Status
+
+In Development
+
+The project is currently beginning with PLC fundamentals and basic control logic.
+
+## Planned Control Functions
+
+The PLC system will eventually include:
+
+- Start and stop control
+- Conveyor motor control
+- Object detection
+- Sorting sequence
+- Timers and counters
+- Automatic and manual operating modes
+- Safety interlocks
+- Fault detection
+- Alarm handling
+- Fault reset logic
+
+## Planned Topics
+
+During development, this section will document:
+
+- PLC hardware configuration
+- I/O addressing
+- PLC tags
+- Ladder Logic
+- Structured Text
+- Program structure
+- Control sequences
+- Interlocks
+- Fault handling
+
+PLC programs, screenshots, and explanations will be added as the project progresses.
