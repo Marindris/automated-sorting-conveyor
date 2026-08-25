@@ -1,0 +1,48 @@
+# Testing and Validation
+
+This folder contains testing, validation, and commissioning documentation for the Mini Automated Sorting Conveyor.
+
+## Current Status
+
+Planned
+
+Formal testing will begin as individual system functions are implemented.
+
+## Planned Testing
+
+Testing will eventually include:
+
+- I/O verification
+- Sensor testing
+- Motor control testing
+- Sorting actuator testing
+- Automatic sequence testing
+- Manual mode testing
+- Interlock testing
+- Alarm testing
+- Emergency stop testing
+- Fault recovery testing
+- Communication testing
+
+## Fault Testing
+
+Fault conditions will be intentionally introduced to verify that the control system responds safely and correctly.
+
+Potential test conditions include:
+
+- Object sensor not detecting
+- Object sensor remaining active
+- Sorting actuator timeout
+- Motor fault
+- Communication failure
+- Emergency stop activation
+
+## FAT
+
+A Factory Acceptance Test (FAT) procedure will be developed to verify that the system meets its functional requirements before final commissioning.
+
+## SAT
+
+A Site Acceptance Test (SAT) procedure will be developed to verify correct operation of the completed system.
+
+Test procedures, expected results, actual results, and corrective actions will be documented as the project progresses.
