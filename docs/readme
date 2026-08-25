@@ -1,0 +1,16 @@
+# Project Documentation
+
+This folder contains the engineering documentation for the Mini Automated Sorting Conveyor.
+
+Planned documentation includes:
+
+- System requirements
+- System architecture
+- Control sequence
+- I/O list
+- Electrical schematics
+- Design decisions
+- Communication architecture
+- Safety and interlock philosophy
+
+Documents will be added progressively as the project is developed.
