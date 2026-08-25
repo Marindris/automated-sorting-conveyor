@@ -1,7 +1,7 @@
 # Mini Automated Sorting Conveyor
 
 ## Project Status
-🚧 In Development
+In Development
 
 ## Overview
 A miniature automated sorting conveyor developed as a hands-on industrial automation portfolio project.
