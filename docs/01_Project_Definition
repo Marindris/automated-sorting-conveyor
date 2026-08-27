@@ -1,0 +1,51 @@
+# Project Definition
+
+## 1. Problem Statement
+
+Small production lines may rely on operators to manually inspect and sort products. Manual sorting can result in inconsistent classification, slower processing, and limited production traceability.
+
+This project develops a miniature automated sorting conveyor that detects an incoming object, classifies it, directs it to the correct output location, detects abnormal operating conditions, and records basic production information.
+
+## 2. Project Objective
+
+Design and build a miniature automated sorting conveyor that demonstrates industrial-style automation using sensors, a conveyor motor, a sorting actuator, operator controls, machine-state sequencing, fault detection, and production-data collection.
+
+## 3. Functional Requirements
+
+- **FR-01:** The system shall remain stopped until a Start command is received.
+- **FR-02:** The system shall stop conveyor movement when a Stop command is received.
+- **FR-03:** The system shall prevent automatic operation when the emergency-stop condition is active.
+- **FR-04:** The system shall detect an object entering the conveyor.
+- **FR-05:** The system shall classify each detected object into one of two predefined categories.
+- **FR-06:** The system shall automatically direct the classified object to the correct output location.
+- **FR-07:** The system shall confirm that the object has exited the sorting process.
+- **FR-08:** The system shall detect a jam or movement timeout, stop the conveyor, and generate a fault indication.
+- **FR-09:** The system shall provide automatic and manual operating modes and display machine status, operating state, production counts, and active faults.
+- **FR-10:** The system shall record accepted items, rejected items, total completed cycles, and detected faults.
+
+## 4. Version 1 Scope
+
+### Included
+
+- One conveyor
+- One object processed at a time
+- Two object classifications
+- One sorting diverter
+- Entry, classification, and exit detection
+- Start, Stop, and Reset controls
+- Automatic and Manual modes
+- Emergency-stop simulation
+- Basic HMI/dashboard
+- Fault detection and handling
+- Production counters and basic data logging
+
+### Not Included
+
+- Computer vision
+- AI-based classification
+- Multiple simultaneous objects
+- Robotic pick-and-place
+- Industrial safety certification
+- High-speed sorting
+- PLC hardware in the first version
+- Cloud-based remote control
